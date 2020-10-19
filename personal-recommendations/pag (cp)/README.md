@@ -1,4 +1,4 @@
-#Competitive Programming Experiences and Resources
+# Competitive Programming Experiences and Resources
 
 Anyone with experience in cp can add resources useful
 for a beginner to start exploring with. Please write a markdown file and

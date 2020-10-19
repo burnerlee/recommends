@@ -1,4 +1,4 @@
-#Development Experiences and Resources
+# Development Experiences and Resources
 
 Anyone with experience in development(anything ranging from a simple website to some cool game)
 can add resources useful for a beginner to start exploring with. Please write a markdown file and

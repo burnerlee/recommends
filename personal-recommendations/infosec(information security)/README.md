@@ -1,4 +1,4 @@
-#Infosec Experiences and Resources
+# Infosec Experiences and Resources
 
 Anyone with experience in information security can add resources useful
 for a beginner to start exploring with. Please write a markdown file and
